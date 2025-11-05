@@ -1,0 +1,12 @@
+:: ============================================================
+:: Si se desea cambiar el entorno, modificar la línea "URL"
+:: y agregar la base URL del entorno deseado, por ejemplo:
+:: REM Definir valores predeterminados
+:: set URL="-Dwebdriver.base.url=https://EntornoPrueba"
+::
+:: Para lanzar el automatismo, hacer doble clic en el ejecutable "OKA".
+::
+:: ============================================================
+
+:: Para visualizar el reporte obtenido del automatismo, ingresar al proyecto,
+:: acceder a la carpeta \target\site\serenity y abrir el archivo "index.html".
