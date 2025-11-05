@@ -53,8 +53,8 @@ Característica: Gestión de usuarios
     Entonces se muestra el nuevo usuario en la tabla de usuarios
 
     Ejemplos:
-      | UserRole | EmployeeName | Status  | UserName       | Password        | ConfPassword    | mensajeExito       |
-      | Admin    | John Doe     | Enabled | HappyTesting02 | HappyTesting123 | HappyTesting123 | Successfully Saved |
+      | UserRole | EmployeeName | Status  | UserName     | Password        | ConfPassword    | mensajeExito       |
+      | Admin    | John Doe     | Enabled | HappyTesting | HappyTesting123 | HappyTesting123 | Successfully Saved |
 
   @ValidarObligatoriedad
   Esquema del escenario: Validar campos obligatorios del formulario Agregar usuario
